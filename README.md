@@ -28,8 +28,6 @@ One final point to be aware of before you get started is that there are two majo
 
 ## Ready to get started?
 
-The rest of this tutorial will run inside a Jupyter notebook hosted on a cloud-based service called Binder. It's important to understand how this service works. When you start the tutorial, Binder builds a virtual computer and installs a Python distribution before launching your Jupyter notebook. This takes a bit of time to set up, so please be patient during this process.
+The rest of this tutorial will run inside a Jupyter notebook hosted on a cloud-based service called Binder. It's important to understand how this service works. When you start the tutorial, Binder builds a virtual computer and installs a Python distribution before launching your Jupyter notebook. This takes a bit of time to set up, so please be patient during this process. To start the tutorial, click the "Launch" button.
 
-[![button](http://www.presentationpro.com/images/product/medium/slide/PPP_CGENE_LT3_Presentation-PowerPoint-Slide-Graphic_Push_Button_Up.jpg)](https://mattermost.com)
-
-<a href="basic_python_tutorial.ipynb" target="_blank"><button align="center">Launch the Tutorial</button></a>
+[![button](images/Launch-Button-300x199.jpg)](https://mattermost.com)
