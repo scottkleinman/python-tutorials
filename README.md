@@ -30,4 +30,4 @@ One final point to be aware of before you get started is that there are two majo
 
 The rest of this tutorial will run inside a Jupyter notebook hosted on a cloud-based service called Binder. It's important to understand how this service works. When you start the tutorial, Binder builds a virtual computer and installs a Python distribution before launching your Jupyter notebook. This takes a bit of time to set up, so please be patient during this process. To start the tutorial, click the "Launch" button.
 
-[![button](images/Launch-Button-300x199.jpg)](https://mybinder.org/v2/gh/scottkleinman/python-tutorials/master?urlpath=https%3A%2F%2Fgithub.com%2Fscottkleinman%2Fpython-tutorials%2Fblob%2Fmaster%2Fbasic_python_tutorial.ipynb)
+[![button](images/Launch-Button-300x199.jpg)](https://mybinder.org/v2/gh/scottkleinman/python-tutorials/master?filepath=basic_python_tutorial.ipynb)
