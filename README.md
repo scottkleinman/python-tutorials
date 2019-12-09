@@ -22,6 +22,8 @@ A "notebook" is like a web page with form fields (called "cells") into which you
 
 When you open a specific notebook, you enter (or paste) your code in the cells and then click the `Run` button or type `Shift+Enter` to run your code. Jupyter notebooks are great to learn from because your can open them with the cells pre-populated with sample code. Jupyter notebooks are also great because they allow you to enter explanatory material such as a description of what the code is doing.
 
+There's a lot more to Jupyter notebooks. For a full tutorial, see Quinn Dombrowski, Tassie Gniady, and David Kloster's _[Introduction to Jupyter Notebooks]https://programminghistorian.org/en/lessons/jupyter-notebooks)_. This tutorial can also introduce you to some basic Python skills for handling dates and has links to other notebooks for performing common Digital Humanities tasks.
+
 ## Versions of Python
 
 One final point to be aware of before you get started is that there are two major version of Python: Python 2 and Python 3. Python 2 will no longer be supported starting in 2020, so Python 3 is the future. However, there are many, many Python 2 tools and code samples on the internet after years of use, and you may encounter them if you do some Googling. The differences are fairly minor until you start doing advanced stuff. For instance, the command `print "hello"` does what you probably think it does in Python 2. In Python 3, it is `print("hello")`. Just be aware of that you may see these differences if you copy code off the internet. This tutorial will exclusively use Python 3.
