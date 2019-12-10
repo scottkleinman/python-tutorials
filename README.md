@@ -22,7 +22,7 @@ A "notebook" is like a web page with form fields (called "cells") into which you
 
 When you open a specific notebook, you enter (or paste) your code in the cells and then click the `Run` button or type `Shift+Enter` to run your code. Jupyter notebooks are great to learn from because your can open them with the cells pre-populated with sample code. Jupyter notebooks are also great because they allow you to enter explanatory material such as a description of what the code is doing.
 
-There's a lot more to Jupyter notebooks. For a full tutorial, see Quinn Dombrowski, Tassie Gniady, and David Kloster's _[Introduction to Jupyter Notebooks]https://programminghistorian.org/en/lessons/jupyter-notebooks)_. This tutorial can also introduce you to some basic Python skills for handling dates and has links to other notebooks for performing common Digital Humanities tasks.
+There's a lot more to Jupyter notebooks. For a full tutorial, see Quinn Dombrowski, Tassie Gniady, and David Kloster's _[Introduction to Jupyter Notebooks](https://programminghistorian.org/en/lessons/jupyter-notebooks)_. This tutorial can also introduce you to some basic Python skills for handling dates and has links to other notebooks for performing common Digital Humanities tasks.
 
 ## Versions of Python
 
