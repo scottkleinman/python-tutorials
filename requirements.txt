@@ -35,4 +35,4 @@ spacy == 2.2.0
 textacy == 0.9.1
 
 # C:\Users\scott\Documents\GitHub\python-tutorials\WorkingWithTexts.ipynb: 38
-~umpy == 1.16.5
+numpy == 1.16.5
